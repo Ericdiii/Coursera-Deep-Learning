@@ -35,7 +35,7 @@
 
 5. Which one of these plots represents a ReLU activation function?
     - [x] ![ReLU](https://www.researchgate.net/profile/Hossam-H-Sultan/publication/333411007/figure/fig7/AS:766785846525952@1559827400204/ReLU-activation-function.png)
-    </br>***This is the ReLU activation function, the most used in neural networks.***
+    </br>***Note:&nbsp;This is the ReLU activation function, the most used in neural networks.***
 
 6. Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
     - [ ] True
@@ -49,8 +49,8 @@
 
 8. Why is an RNN (Recurrent Neural Network) used for machine translation, say translating English to French? (Check all that apply.)
     - [x] It can be trained as a supervised learning problem. 
-    </br>***Note:&nbsp;Yes. We can train it on many pairs of sentences x (English) and y (French). ***
+    </br>***Note:&nbsp;Yes. We can train it on many pairs of sentences x (English) and y (French).***
     - [ ] It is strictly more powerful than a Convolutional Neural Network (CNN).
     - [x] It is applicable when the input/output is a sequence (e.g., a sequence of words). 
-    </br>***Note:&nbsp;An RNN can map from a sequence of english words to a sequence of french words. ***
+    </br>***Note:&nbsp;An RNN can map from a sequence of english words to a sequence of french words.***
     - [ ] RNNs represent the recurrent process of Idea->Code->Experiment->Idea->.... 
