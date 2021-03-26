@@ -19,7 +19,12 @@
     </br>***Note:&nbsp;These were all examples discussed in lecture 3.***
     
 3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
-    - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly. 
-    </br>*Note:&nbsp;As discussed in Lecture 4.*
-    - [ ] 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ReLU_and_GELU.svg/330px-ReLU_and_GELU.svg.png)
+    - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly. 
+    </br>***Note:&nbsp;As discussed in Lecture 4.***
+    - [x] Faster computation can help speed up how long a team takes to iterate to a good idea. 
+    </br>***Note:&nbsp;As discussed in Lecture 4.***
+    - [ ] It is faster to train on a big dataset than a small dataset.
+    - [x] Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware). 
+    </br>***Note:&nbsp;For example, we discussed how switching from sigmoid to ReLU activation functions allows faster training. ***
+
