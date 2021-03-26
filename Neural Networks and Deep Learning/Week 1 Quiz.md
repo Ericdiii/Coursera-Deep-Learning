@@ -19,7 +19,7 @@
     </br>***Note:&nbsp;These were all examples discussed in lecture 3.***
     
 3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ReLU_and_GELU.svg/330px-ReLU_and_GELU.svg.png)
+![](https://3.bp.blogspot.com/-yuuiK-ysDX8/XJTHY4TDE2I/AAAAAAAAZf8/8hgBnVYWQ_0iY8VcaLBK0qsXCTmB0wGmACLcBGAs/s1600/ML%2Bideas%2Bcycle-min.png)
     - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly. 
     </br>***Note:&nbsp;As discussed in Lecture 4.***
     - [x] Faster computation can help speed up how long a team takes to iterate to a good idea. 
@@ -32,3 +32,6 @@
     - [ ] True
     - [x] False
     </br>***Note:&nbsp;Finding the characteristics of a model is key to have good performance. Although experience can help, it requires multiple iterations to build a good model.***
+
+5. Which one of these plots represents a ReLU activation function?    </br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ReLU_and_GELU.svg/330px-ReLU_and_GELU.svg.png)
