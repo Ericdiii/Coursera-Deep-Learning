@@ -26,5 +26,9 @@
     </br>***Note:&nbsp;As discussed in Lecture 4.***
     - [ ] It is faster to train on a big dataset than a small dataset.
     - [x] Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware). 
-    </br>***Note:&nbsp;For example, we discussed how switching from sigmoid to ReLU activation functions allows faster training. ***
+    </br>***Note:&nbsp;For example, we discussed how switching from sigmoid to ReLU activation functions allows faster training.***
 
+4.When an experienced deep learning engineer works on a new problem, they can usually use insight from previous problems to train a good model on the first try, without needing to iterate multiple times through different models. True/False?
+    - [ ] True
+    - [x] False
+    </br>***Note:&nbsp;Finding the characteristics of a model is key to have good performance. Although experience can help, it requires multiple iterations to build a good model.***
