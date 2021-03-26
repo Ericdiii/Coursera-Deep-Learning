@@ -17,3 +17,5 @@
     - [ ] Neural Networks are a brand new field. 
     - [x] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
     </br>*Note:&nbsp;These were all examples discussed in lecture 3.*
+
+![???](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ReLU_and_GELU.svg/330px-ReLU_and_GELU.svg.png "???")
