@@ -1,6 +1,6 @@
 ## Week 1 Quiz - Introduction to deep learning
 
-1. What does the analogy “AI is the new electricity” refer to?  **1/1 point**
+1. What does the analogy “AI is the new electricity” refer to?&emsp；**1/1 point**
 
     - [x] Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
     - [ ] Through the “smart grid”, AI is delivering a new wave of electricity.
