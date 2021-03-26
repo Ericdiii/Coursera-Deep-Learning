@@ -56,6 +56,7 @@
     - [ ] RNNs represent the recurrent process of Idea->Code->Experiment->Idea->....
  
 9. In this diagram which we hand-drew in lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis) represent? 
+![diagram](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/JP--G3ooEeeJIwrF5BVsIg_b60d752c05bec0881d8ca08cfc2646d2_Screen-Shot-2017-08-05-at-2.30.09-PM.png?expiry=1616889600000&hmac=cf5e_BWylcVw5Wn2cY6goVFJ5-VvvLUC3qyEC5aZ-c8)
     - [ ] &nbsp;**·**&nbsp;x-axis is the amount of data
     </br>**·**&nbsp;y-axis is the size of the model you train. 
     - [ ] &nbsp;**·**&nbsp;x-axis is the input to the algorithm
@@ -70,5 +71,5 @@
     - [x] Increasing the training set size generally does not hurt an algorithm’s performance, and it may help significantly. 
     </br>***Note:&nbsp;Bringing more data to a model is almost always beneficial.***
     - [x] Increasing the size of a neural network generally does not hurt an algorithm’s performance, and it may help significantly.
-    </br>***According to the trends in the figure above, big networks usually perform better than small networks. ***
+    </br>***According to the trends in the figure above, big networks usually perform better than small networks.***
     - [ ] Decreasing the training set size generally does not hurt an algorithm’s performance, and it may help significantly.
