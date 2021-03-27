@@ -13,3 +13,5 @@
 
 * Week 4
 	* [Quiz 4]()
+	* [Building your Deep Neural Network: Step by Step]()
+	* [Deep Neural Network - Application]()
