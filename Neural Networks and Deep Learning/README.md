@@ -9,5 +9,7 @@
 
 * Week 3
 	* [Quiz 3](https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Neural%20Networks%20and%20Deep%20Learning/Quiz/Week%203%20Quiz.md)
-	* [Building your Deep Neural Network - Step by Step]()
-	* [Deep Neural Network Application-Image Classification]()
+	* [Planar data classification with one hidden layer](https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignment/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+
+* Week 4
+	* [Quiz 4]()
