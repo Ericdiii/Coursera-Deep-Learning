@@ -16,10 +16,7 @@
 
 3. Suppose img is a (32,32,3) array, representing a 32x32 image with 3 color channels red, green and blue. How do you reshape this into a column vector?
 
-    - [ ] x = img.reshape((32*32,3))
-    - [ ] x = img.reshape((1,32*32,*3))
-    - [x] x = img.reshape((32*32*3,1))
-    - [ ] x = img.reshape((3,32*32))
+    - `x = img.reshape((32 * 32 * 3, 1))`
 </br>
 
 4. Consider the two following random arrays "a" and "b":
