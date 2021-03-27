@@ -8,6 +8,6 @@
 	* [Logistic Regression with a Neural Network mindset](https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignment/Week%202/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 
 * Week 3
-	* [Quiz 3]()
-	* [Building your Deep Neural Network - Step by Step](https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Neural%20Networks%20and%20Deep%20Learning/Quiz/Week%203%20Quiz.md)
+	* [Quiz 3](https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Neural%20Networks%20and%20Deep%20Learning/Quiz/Week%203%20Quiz.md)
+	* [Building your Deep Neural Network - Step by Step]()
 	* [Deep Neural Network Application-Image Classification]()
