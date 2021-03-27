@@ -118,7 +118,7 @@
     
     - [ ] J = (c - 1)*(b + a)
     - [x] J = (a - 1) * (b + c)
-    </br>***Note:&nbsp;J = u + v - w = a*b + a*c - (b + c) = a * (b + c) - (b + c) = (a - 1) * (b + c).***
+    </br> ***Note:&nbsp;J = u + v - w = a*b + a*c - (b + c) = a * (b + c) - (b + c) = (a - 1) * (b + c)***
     - [ ] J = a*b + b*c + a*c
     - [ ] J = (b - 1) * (c + a)
 </br>
