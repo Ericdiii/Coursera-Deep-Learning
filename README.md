@@ -13,6 +13,6 @@
 Purely for my academic use.
 
 ### Author
-Yang /[@Ericdiii](https://github.com/Ericdiii)
+Yang/ [@Ericdiii](https://github.com/Ericdiii)
 
 -------------------
