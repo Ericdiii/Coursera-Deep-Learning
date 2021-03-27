@@ -1,7 +1,7 @@
 
 # Neural Networks and Deep Learning
 * A series of online courses offered by [deeplearning.ai](https://www.deeplearning.ai/) and taught by Prof. [**Andrew Ng**](https://www.coursera.org/instructor/andrewng).
-* This is a record of my learning process on Andrew Ng's special course  "[***Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning)". 
+* This is a record of my learning process on Andrew Ng's special course  "[***Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning)".</br>
   This special course consists of five courses: 
     * [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)  
     * [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
