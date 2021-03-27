@@ -10,10 +10,9 @@
     * [***Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models)
 
 ### Reminder
-
 Purely for my academic use.
 
 ### Author
-Ericdiii/ [@Ericdiii](https://github.com/Ericdiii)
+[@Ericdiii](https://github.com/Ericdiii)
 
 -------------------
