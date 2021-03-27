@@ -46,7 +46,7 @@
     What will be the shape of "c"?
     
     - [x] The computation cannot happen because the sizes don't match. It's going to be "Error"!
-    </br>***Note:&nbsp;Indeed! In numpy the "*" operator indicates element-wise multiplication. It is different from "np.dot()". If you would try "c = np.dot(a,b)" you would get c.shape = (4, 2).**
+    </br>***Note:&nbsp;Indeed! In numpy the "*" ***operator indicates element-wise multiplication. It is different from "np.dot()". If you would try "c = np.dot(a,b)" you would get c.shape = (4, 2).***
     - [ ] c.shape = (4,2)
     - [ ] c.shape = (4,3)
     - [ ] c.shape = (3, 3)
