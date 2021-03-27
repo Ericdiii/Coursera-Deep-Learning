@@ -10,5 +10,5 @@
     * [***Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models)
 
 ### Reminder
--------------------
 Purely for my academic use.
+-------------------
