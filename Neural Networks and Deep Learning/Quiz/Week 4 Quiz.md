@@ -77,4 +77,4 @@
 
 10. Whereas the previous question used a specific network, in the general case what is the dimension of W^{[l]}, the weight matrix associated with layer *l*?
 
-    - [x] W^[l] has shape (n^[l],n^[l−1])
+    - [x] *W^[l]* has shape (*n^[l],n^[l−1]*)
