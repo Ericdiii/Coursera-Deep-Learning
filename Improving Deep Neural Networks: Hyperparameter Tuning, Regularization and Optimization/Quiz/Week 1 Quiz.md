@@ -57,15 +57,27 @@
 
 8. Increasing the parameter keep_prob from (say) 0.5 to 0.6 will likely cause the following: (Check the two that apply)
 
-    - Reducing the regularization effect
-    - Causing the neural network to end up with a lower training set error
+    - [ ] Increasing the regularization effect
+    - [x] Reducing the regularization effect
+    - [ ] Causing the neural network to end up with a higher training set error 
+    - [x] Causing the neural network to end up with a lower training set error
+</br>
 
 9. Which of these techniques are useful for reducing variance (reducing overfitting)? (Check all that apply.)
 
-    - Dropout
-    - L2 regularization
-    - Data augmentation
+    - [ ] Vanishing gradient
+    - [x] Dropout
+    - [ ] Xavier initialization
+    - [ ] Exploding gradient
+    - [x] L2 regularization
+    - [ ] Gradient Checking
+    - [x] Data augmentation
+</br>
 
 10. Why do we normalize the inputs x?
 
-    - It makes the cost function faster to optimize
+    - [ ] It makes it easier to visualize the data
+    - [x] It makes the cost function faster to optimize
+    - [ ] Normalization is another word for regularization--It helps to reduce variance
+    - [ ] It makes the parameter initialization faster
+</br>
