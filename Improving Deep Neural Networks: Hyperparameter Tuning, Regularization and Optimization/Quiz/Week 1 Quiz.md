@@ -29,6 +29,7 @@
     - [x] Increase the regularization parameter lambda
     - [ ] Decrease the regularization parameter lambda
     - [x] Get more training data
+    - [ ] Use a bigger neural network
 </br>
 
  5. What is weight decay?
