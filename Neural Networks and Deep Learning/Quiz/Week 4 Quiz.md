@@ -1,4 +1,4 @@
-## Week 3 Quiz - Key concepts on Deep Neural Networks
+## Week 4 Quiz - Key concepts on Deep Neural Networks
 
 1. What is the "cache" used for in our implementation of forward propagation and backward propagation?
 
