@@ -6,7 +6,7 @@
 	* [Gradient Checking](https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Programming%20Assignment/Week%201/Gradient%20Checking.ipynb)
 
 * Week 2
-	* [Quiz 2]()
+	* [Quiz 2](https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Quiz/Week%202%20Quiz.md)
 	* [Optimization]()
 * Week 3
 	* [Quiz 3]()
