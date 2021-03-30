@@ -77,7 +77,7 @@
 10. Which of the following statements about Adam is False? 
 
     - [x] Adam should be used with batch gradient computations, not with mini-batches.
-    - [ ] The learning rate hyperparameter \alphaα in Adam usually needs to be tuned.
+    - [ ] The learning rate hyperparameter α in Adam usually needs to be tuned.
     - [ ] Adam combines the advantages of RMSProp and momentum
     - [ ] We usually use “default” values for the hyperparameters *β1*,*β2* and ε in Adam (*β1*=0.9, *β2*=0.999, ε=10^-8)
 </br>
