@@ -33,41 +33,51 @@
 
 5. Suppose the temperature in Casablanca over the first three days of January are the same:
 
-    Jan 1st: θ_1 = 10
+    Jan 1st: θ_1 = 10</br>
+    Jan 2nd: θ_2 = 10
 
-    Jan 2nd: θ_2 * 10
-
-    Say you use an exponentially weighted average with β = 0.5 to track the temperature: v_0 = 0, v_t = βv_t−1 + (1 − β)θ_t. If v_2 is the value computed after day 2 without bias correction, and v^corrected_2 is the value you compute with bias correction. What are these values?
-
-    - v_2 = 7.5, v^corrected_2 = 10
+    Say you use an exponentially weighted average with *β = 0.5* to track the temperature: *v_0 = 0, v_t = βv_t−1 + (1 − β)θ_t*. If *v_2* is the value computed after day 2 without bias correction, and *v^corrected_2* is the value you compute with bias correction. What are these values?
+    
+    - [x] v_2 = 7.5, v^corrected_2 = 10
+</br>
 
 6. Which of these is NOT a good learning rate decay scheme? Here, t is the epoch number.
 
-    - α = e^t * α_0
-
-    Note: This will explode the learning rate rather than decay it.
+    - [x] α = *e^t* * *α_0*
+</br>
 
 7. You use an exponentially weighted average on the London temperature dataset. You use the following to track the temperature: v_t = βv_t−1 + (1 − β)θ_t. The red line below was computed using β = 0.9. What would happen to your red curve as you vary β? (Check the two that apply)
 
-    - Increasing β will shift the red line slightly to the right.
-    - Decreasing β will create more oscillation within the red line.
+    - [ ] Decreasing *β* will shift the red line slightly to the right.
+    - [x] Increasing *β* will shift the red line slightly to the right.
+    </br>***Note:&nbsp;Remember that the red line corresponds to β = 0.9. In lecture we had a green line $$\beta = 0.98) that is slightly shifted to the right.***
+    - [x] Decreasing *β* will create more oscillation within the red line.
+    </br>***Note:&nbsp;Remember that the red line corresponds to β = 0.9. In lecture we had a yellow line $$\beta = 0.98 that had a lot of oscillations.***
+    - [ ] Increasing *β* will create more oscillations within the red line.
+</br>
 
 8. Consider this figure:
-
+![figure](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/fv6gungsEeeJIwrF5BVsIg_6da8c45ffcd4075de23d8e93884937f1_GD.png?expiry=1617235200000&hmac=hoBnYS_33YSSux6iYEw6pxDen7rFj2VNa8a4j7MSu0U)
     These plots were generated with gradient descent; with gradient descent with momentum (β = 0.5) and gradient descent with momentum (β = 0.9). Which curve corresponds to which algorithm?
+    - [ ] (1) is gradient descent with momentum (small *β*). (2) is gradient descent. (3) is gradient descent with momentum  (large *β*)
+    - [x] (1) is gradient descent. (2) is gradient descent with momentum (small *β*). (3) is gradient descent with momentum (large *β*)
+    - [ ] (1) is gradient descent with momentum (small *β*), (2) is gradient descent with momentum (small *β*), (3) is gradient descent
+    - [ ] (1) is gradient descent. (2) is gradient descent with momentum (large *β*) . (3) is gradient descent with momentum (small *β*)
+</br>
 
-    (1) is gradient descent. (2) is gradient descent with momentum (small β). (3) is gradient descent with momentum (large β)
+9. Suppose batch gradient descent in a deep network is taking excessively long to find a value of the parameters that achieves a small value for the cost function *J(W[1],b[1],...,W[L],b[L])*. Which of the following techniques could help find parameter values that attain a small value for *J*? (Check all that apply)
 
-9. Suppose batch gradient descent in a deep network is taking excessively long to find a value of the parameters that achieves a small value for the cost function J(W[1],b[1],...,W[L],b[L]). Which of the following techniques could help find parameter values that attain a small value forJ? (Check all that apply)
-
+    - [ ] Try initializing all the weights to zero
     - [x] Try using Adam
-    - [x] Try better random initialization for the weights
     - [x] Try tuning the learning rate α
     - [x] Try mini-batch gradient descent
-    - [ ] Try initializing all the weights to zero
+    - [x] Try better random initialization for the weights
+</br>
 
 10. Which of the following statements about Adam is False? 
 
-    - Adam should be used with batch gradient computations, not with mini-batches.
-
-    Note: Adam could be used with both.
+    - [x] Adam should be used with batch gradient computations, not with mini-batches.
+    - [ ] The learning rate hyperparameter \alphaα in Adam usually needs to be tuned.
+    - [ ] Adam combines the advantages of RMSProp and momentum
+    - [ ] We usually use “default” values for the hyperparameters *β1*,*β2* and ε in Adam (*β1*=0.9, *β2*=0.999, ε=10^-8)
+</br>
