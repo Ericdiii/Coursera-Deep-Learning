@@ -103,7 +103,7 @@
 </br> 
     
 10. You decide to use data augmentation to address foggy images. You find 1,000 pictures of fog off the internet, and “add” them to clean images to synthesize foggy days, like this:
-    ![ foggy days]（https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/QmvClns5EeeJIwrF5BVsIg_cbfb98b732b02c0ee5be350de651eb04_Screen-Shot-2017-08-06-at-8.40.53-PM.png?expiry=1617408000000&hmac=J2nNJrKfVihNMWsWXpmttbg1tv9naQHRZ_Hm2xxP6FQg)
+    ![ foggy days](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/QmvClns5EeeJIwrF5BVsIg_cbfb98b732b02c0ee5be350de651eb04_Screen-Shot-2017-08-06-at-8.40.53-PM.png?expiry=1617408000000&hmac=J2nNJrKfVihNMWsWXpmttbg1tv9naQHRZ_Hm2xxP6FQg)
     Which of the following statements do you agree with? (Check all that apply.)
 
     - [x] So long as the synthesized fog looks realistic to the human eye, you can be confident that the synthesized data is accurately capturing the distribution of real foggy images, since human vision is very accurate for the problem you’re solving.
@@ -143,9 +143,7 @@
 14. To recognize red and green lights, you have been using this approach:
 
     - (A) Input an image (x) to a neural network and have it directly learn a mapping to make a prediction as to whether there’s a red light and/or green light (y).
-
     A teammate proposes a different, two-step approach:
-
     - (B) In this two-step approach, you would first (i) detect the traffic light in the image (if any), then (ii) determine the color of the illuminated lamp in the traffic light.
     Between these two, Approach B is more of an end-to-end approach because it has distinct steps for the input end and the output end. True/False?
 
