@@ -135,6 +135,7 @@
 13. Another colleague wants to use microphones placed outside the car to better hear if there’re other vehicles around you. For example, if there is a police vehicle behind you, you would be able to hear their siren. However, they don’t have much to train this audio system. How can you help?
 
     - [x] Neither transfer learning nor multi-task learning seems promising.
+    </br>***Note:&nbsp;The problem he is trying to solve is quite different from yours. The different dataset structures make it probably impossible to use transfer learning or multi-task learning.***
     - [ ] Transfer learning from your vision dataset could help your colleague get going faster. Multi-task learning seems significantly less promising. 
     - [ ] Multi-task learning from your vision dataset could help your colleague get going faster. Transfer learning seems significantly less promising.
     - [ ] Either transfer learning or multi-task learning could help our colleague get going faster.
