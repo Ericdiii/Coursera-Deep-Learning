@@ -26,53 +26,50 @@
 
 4. You have an input volume that is 63x63x16, and convolve it with 32 filters that are each 7x7, using a stride of 2 and no padding. What is the output volume?
 
-  16x16x32
-
-  29x29x16
-
-  > 29x29x32
-  16x16x16
+    - [ ] 16x16x32
+    - [ ] 29x29x16
+    - [x] 29x29x32
+    - [ ] 16x16x16
+</br>
 
 5. You have an input volume that is 15x15x8, and pad it using “pad=2.” What is the dimension of the resulting volume (after padding)?
 
-  19x19x12
-
-  17x17x10
-
-  > 19x19x8
-  17x17x8
+    - [ ] 19x19x12
+    - [ ] 17x17x10
+    - [x] 19x19x8
+    - [ ] 17x17x8
+</br>
 
 6. You have an input volume that is 63x63x16, and convolve it with 32 filters that are each 7x7, and stride of 1. You want to use a “same” convolution. What is the padding?
 
-  1
-
-  2
-
-  > 3
-  7
+    - [ ] 1
+    - [ ] 2
+    - [x] 3
+    - [ ] 7
+</br>
 
 7. You have an input volume that is 32x32x16, and apply max pooling with a stride of 2 and a filter size of 2. What is the output volume?
 
-  15x15x16
-
-  > 16x16x16
-  32x32x8
-
-  16x16x8
+    - [ ] 15x15x16
+    - [x] 16x16x16
+    - [ ] 32x32x8
+    - [ ] 16x16x8
+</br>
 
 8. Because pooling layers do not have parameters, they do not affect the backpropagation (derivatives) calculation.
 
-  True
+    - [ ] True
+    - [x] False
+</br>
 
-  > False
 9. In lecture we talked about “parameter sharing” as a benefit of using convolutional networks. Which of the following statements about parameter sharing in ConvNets are true? (Check all that apply.)
 
-  It allows parameters learned for one task to be shared even for a different task (transfer learning).
+    - [ ] It allows parameters learned for one task to be shared even for a different task (transfer learning).
+    - [x] It reduces the total number of parameters, thus reducing overfitting.
+    - [ ] It allows gradient descent to set many of the parameters to zero, thus making the connections sparse.
+    - [x] It allows a feature detector to be used in multiple locations throughout the whole input image/input volume.
+</br>
 
-  >  It reduces the total number of parameters, thus reducing overfitting.
-  It allows gradient descent to set many of the parameters to zero, thus making the connections sparse.
-
-  > It allows a feature detector to be used in multiple locations throughout the whole input image/input volume.
 10. In lecture we talked about “sparsity of connections” as a benefit of using convolutional layers. What does this mean?
 
     - [ ] Each filter is connected to every channel in the previous layer.
