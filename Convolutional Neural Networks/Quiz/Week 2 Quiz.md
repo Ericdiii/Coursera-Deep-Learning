@@ -65,7 +65,7 @@
 
 9. Which ones of the following statements on Inception Networks are true? (Check all that apply.)
 
-    - [ ] Inception blocks usually use 1x1 convolutions to reduce the input data volume’s size before applying 3x3 and 5x5 convolutions
+    - [x] Inception blocks usually use 1x1 convolutions to reduce the input data volume’s size before applying 3x3 and 5x5 convolutions
     - [x] A single inception block allows the network to use a combination of 1x1, 3x3, 5x5 convolutions and pooling.
     - [ ] Making an inception network deeper (by stacking more inception blocks together) should not hurt training set performance.
     - [ ] Inception networks incorporates a variety of network architectures (similar to dropout, which randomly chooses a network architecture on each step) and thus has a similar regularizing effect as dropout.
