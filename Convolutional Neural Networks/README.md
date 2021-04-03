@@ -6,5 +6,5 @@
 	* [Convolutional Model: application](https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Convolutional%20Neural%20Networks/Programming%20Assignment/Week%201/Convolution%20model%20Application.ipynb)
 
 * Week 2
-	* [Quiz 2]()
-	* [Residual Networks]https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Convolutional%20Neural%20Networks/Programming%20Assignment/Week%202/Residual%20Networks.ipynb
+	* [Quiz 2](https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Convolutional%20Neural%20Networks/Quiz/Week%202%20Quiz.md)
+	* [Residual Networks](https://github.com/Ericdiii/Coursera-Deep-Learning/blob/main/Convolutional%20Neural%20Networks/Programming%20Assignment/Week%202/Residual%20Networks.ipynb)
