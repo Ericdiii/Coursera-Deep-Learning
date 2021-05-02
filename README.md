@@ -10,7 +10,7 @@
     * [***Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models)
 
 ### Reminder
-Purely for my academic use.
+Purely for academic use.
 
 ### Author
 Yang [@Ericdiii](https://github.com/Ericdiii)
